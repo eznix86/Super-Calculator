@@ -1,0 +1,92 @@
+c:\users\bruno bernard\documents\visual studio 2015\Projects\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.exe.config
+c:\users\bruno bernard\documents\visual studio 2015\Projects\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.exe
+c:\users\bruno bernard\documents\visual studio 2015\Projects\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.pdb
+c:\users\bruno bernard\documents\visual studio 2015\Projects\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.xml
+c:\users\bruno bernard\documents\visual studio 2015\Projects\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.vbprojResolveAssemblyReference.cache
+c:\users\bruno bernard\documents\visual studio 2015\Projects\Project Calculatrice\Project Calculatrice\obj\Debug\Project_Calculatrice.Form1.resources
+c:\users\bruno bernard\documents\visual studio 2015\Projects\Project Calculatrice\Project Calculatrice\obj\Debug\Project_Calculatrice.Resources.resources
+c:\users\bruno bernard\documents\visual studio 2015\Projects\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.vbproj.GenerateResource.Cache
+c:\users\bruno bernard\documents\visual studio 2015\Projects\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.exe
+c:\users\bruno bernard\documents\visual studio 2015\Projects\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.xml
+c:\users\bruno bernard\documents\visual studio 2015\Projects\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.pdb
+C:\Users\dJwarrious\Documents\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.exe.config
+C:\Users\dJwarrious\Documents\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.exe
+C:\Users\dJwarrious\Documents\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.xml
+C:\Users\dJwarrious\Documents\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.pdb
+C:\Users\dJwarrious\Documents\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.exe
+C:\Users\dJwarrious\Documents\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.pdb
+C:\Users\dJwarrious\Documents\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.xml
+C:\Users\dJwarrious\Documents\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.vbprojResolveAssemblyReference.cache
+C:\Users\dJwarrious\Documents\Project Calculatrice\Project Calculatrice\obj\Debug\Project_Calculatrice.Form1.resources
+C:\Users\dJwarrious\Documents\Project Calculatrice\Project Calculatrice\obj\Debug\Project_Calculatrice.Resources.resources
+C:\Users\dJwarrious\Documents\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.vbproj.GenerateResource.Cache
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v5.1\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.exe.config
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v5.1\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.exe
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v5.1\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.xml
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v5.1\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.pdb
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v5.1\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.exe
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v5.1\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.pdb
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v5.1\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.xml
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v5.1\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.vbprojResolveAssemblyReference.cache
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v5.1\Project Calculatrice\Project Calculatrice\obj\Debug\Project_Calculatrice.Form1.resources
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v5.1\Project Calculatrice\Project Calculatrice\obj\Debug\Project_Calculatrice.Resources.resources
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v5.1\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.vbproj.GenerateResource.Cache
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.exe.config
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.exe
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.xml
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.pdb
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.exe
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.pdb
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.xml
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.vbprojResolveAssemblyReference.cache
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\obj\Debug\Project_Calculatrice.Form1.resources
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\obj\Debug\Project_Calculatrice.Resources.resources
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.vbproj.GenerateResource.Cache
+C:\Users\dJwarrious\Documents\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.exe.config
+C:\Users\dJwarrious\Documents\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.exe
+C:\Users\dJwarrious\Documents\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.xml
+C:\Users\dJwarrious\Documents\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.pdb
+C:\Users\dJwarrious\Documents\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.vbprojResolveAssemblyReference.cache
+C:\Users\dJwarrious\Documents\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\obj\Debug\Project_Calculatrice.Form1.resources
+C:\Users\dJwarrious\Documents\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\obj\Debug\Project_Calculatrice.Resources.resources
+C:\Users\dJwarrious\Documents\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.vbproj.GenerateResource.Cache
+C:\Users\dJwarrious\Documents\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.exe
+C:\Users\dJwarrious\Documents\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.pdb
+C:\Users\dJwarrious\Documents\Project Calculatrice v6.0\Project Calculatrice v6.0\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.xml
+G:\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.exe.config
+G:\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.exe
+G:\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.xml
+G:\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.pdb
+D:\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.exe.config
+D:\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.exe
+D:\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.xml
+D:\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.pdb
+D:\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.exe
+D:\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.pdb
+D:\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.xml
+D:\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.vbprojResolveAssemblyReference.cache
+D:\Project Calculatrice\Project Calculatrice\obj\Debug\Project_Calculatrice.Form1.resources
+D:\Project Calculatrice\Project Calculatrice\obj\Debug\Project_Calculatrice.Resources.resources
+D:\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.vbproj.GenerateResource.Cache
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.2\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.exe.config
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.2\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.exe
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.2\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.xml
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.2\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.pdb
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.2\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.exe
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.2\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.pdb
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.2\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.xml
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.2\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.vbprojResolveAssemblyReference.cache
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.2\Project Calculatrice\Project Calculatrice\obj\Debug\Project_Calculatrice.Form1.resources
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.2\Project Calculatrice\Project Calculatrice\obj\Debug\Project_Calculatrice.Resources.resources
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.2\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.vbproj.GenerateResource.Cache
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.5\Project Calculatricev6.5\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.exe.config
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.5\Project Calculatricev6.5\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.exe
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.5\Project Calculatricev6.5\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.xml
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.5\Project Calculatricev6.5\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.pdb
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.5\Project Calculatricev6.5\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.vbprojResolveAssemblyReference.cache
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.5\Project Calculatricev6.5\Project Calculatrice\Project Calculatrice\obj\Debug\Project_Calculatrice.Form1.resources
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.5\Project Calculatricev6.5\Project Calculatrice\Project Calculatrice\obj\Debug\Project_Calculatrice.Resources.resources
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.5\Project Calculatricev6.5\Project Calculatrice\Project Calculatrice\obj\Debug\Project Calculatrice.vbproj.GenerateResource.Cache
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.5\Project Calculatricev6.5\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.exe
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.5\Project Calculatricev6.5\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.pdb
+C:\Users\Bruno Bernard\Documents\Visual Studio 2015\Projects\Project Calculatricev6.5\Project Calculatricev6.5\Project Calculatrice\Project Calculatrice\bin\Debug\Project Calculatrice.xml
