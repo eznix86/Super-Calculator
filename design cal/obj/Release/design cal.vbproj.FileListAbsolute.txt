@@ -1,0 +1,29 @@
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\obj\Release\design cal.vbprojResolveAssemblyReference.cache
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\obj\Release\design_cal.splash_screen.resources
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\obj\Release\design_cal.Super_calc.resources
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\obj\Release\design_cal.Resources.resources
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\obj\Release\design cal.vbproj.GenerateResource.Cache
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\bin\Release\desgin_cal.exe.config
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\bin\Release\desgin_cal.exe
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\bin\Release\desgin_cal.pdb
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\bin\Release\desgin_cal.xml
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\bin\Release\MaterialSkin.dll
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\obj\Release\desgin_cal.exe
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\obj\Release\desgin_cal.xml
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\obj\Release\desgin_cal.pdb
+C:\Users\Bruno Bernard\Desktop\Old Projects\design cal\design cal\bin\Release\desgin_cal.exe.config
+C:\Users\Bruno Bernard\Desktop\Old Projects\design cal\design cal\obj\Release\desgin_cal.exe
+C:\Users\Bruno Bernard\Desktop\Old Projects\design cal\design cal\obj\Release\desgin_cal.xml
+C:\Users\Bruno Bernard\Desktop\Old Projects\design cal\design cal\obj\Release\desgin_cal.pdb
+C:\Users\dJwarrious\Desktop\design cal\design cal\bin\Release\desgin_cal.exe.config
+C:\Users\dJwarrious\Desktop\design cal\design cal\obj\Release\desgin_cal.exe
+C:\Users\dJwarrious\Desktop\design cal\design cal\obj\Release\desgin_cal.xml
+C:\Users\dJwarrious\Desktop\design cal\design cal\obj\Release\desgin_cal.pdb
+C:\Users\dJwarrious\Desktop\design cal\design cal\bin\Release\desgin_cal.exe
+C:\Users\dJwarrious\Desktop\design cal\design cal\bin\Release\desgin_cal.pdb
+C:\Users\dJwarrious\Desktop\design cal\design cal\bin\Release\desgin_cal.xml
+C:\Users\dJwarrious\Desktop\design cal\design cal\obj\Release\design cal.vbprojResolveAssemblyReference.cache
+C:\Users\dJwarrious\Desktop\design cal\design cal\obj\Release\design_cal.splash_screen.resources
+C:\Users\dJwarrious\Desktop\design cal\design cal\obj\Release\design_cal.Super_calc.resources
+C:\Users\dJwarrious\Desktop\design cal\design cal\obj\Release\design_cal.Resources.resources
+C:\Users\dJwarrious\Desktop\design cal\design cal\obj\Release\design cal.vbproj.GenerateResource.Cache

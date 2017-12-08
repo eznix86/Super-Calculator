@@ -1,0 +1,37 @@
+C:\VB\design cal\design cal\bin\Debug\design cal.exe.config
+C:\VB\design cal\design cal\bin\Debug\design cal.exe
+C:\VB\design cal\design cal\bin\Debug\design cal.pdb
+C:\VB\design cal\design cal\bin\Debug\design cal.xml
+C:\VB\design cal\design cal\bin\Debug\MaterialSkin.dll
+C:\VB\design cal\design cal\obj\Debug\design_cal.splash_screen.resources
+C:\VB\design cal\design cal\obj\Debug\design_cal.Super_calc.resources
+C:\VB\design cal\design cal\obj\Debug\design_cal.Resources.resources
+C:\VB\design cal\design cal\obj\Debug\design cal.vbproj.GenerateResource.Cache
+C:\VB\design cal\design cal\obj\Debug\design cal.exe
+C:\VB\design cal\design cal\obj\Debug\design cal.xml
+C:\VB\design cal\design cal\obj\Debug\design cal.pdb
+C:\VB\design cal\design cal\obj\Debug\design cal.vbprojResolveAssemblyReference.cache
+C:\Users\dJwarrious\Desktop\design cal\design cal\obj\Debug\design cal.vbprojResolveAssemblyReference.cache
+C:\Users\dJwarrious\Desktop\design cal\design cal\obj\Debug\design_cal.splash_screen.resources
+C:\Users\dJwarrious\Desktop\design cal\design cal\obj\Debug\design_cal.Super_calc.resources
+C:\Users\dJwarrious\Desktop\design cal\design cal\obj\Debug\design_cal.Resources.resources
+C:\Users\dJwarrious\Desktop\design cal\design cal\obj\Debug\design cal.vbproj.GenerateResource.Cache
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\bin\Debug\design cal.exe.config
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\bin\Debug\design cal.exe
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\bin\Debug\design cal.pdb
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\bin\Debug\design cal.xml
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\obj\Debug\design_cal.splash_screen.resources
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\obj\Debug\design_cal.Super_calc.resources
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\obj\Debug\design_cal.Resources.resources
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\obj\Debug\design cal.vbproj.GenerateResource.Cache
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\obj\Debug\design cal.exe
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\obj\Debug\design cal.xml
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\obj\Debug\design cal.pdb
+C:\Users\Bruno Bernard\Desktop\design cal\design cal\obj\Debug\design cal.vbprojResolveAssemblyReference.cache
+C:\Users\dJwarrious\Desktop\design cal\design cal\bin\Debug\desgin_cal.exe.config
+C:\Users\dJwarrious\Desktop\design cal\design cal\bin\Debug\desgin_cal.exe
+C:\Users\dJwarrious\Desktop\design cal\design cal\bin\Debug\desgin_cal.pdb
+C:\Users\dJwarrious\Desktop\design cal\design cal\bin\Debug\desgin_cal.xml
+C:\Users\dJwarrious\Desktop\design cal\design cal\obj\Debug\desgin_cal.exe
+C:\Users\dJwarrious\Desktop\design cal\design cal\obj\Debug\desgin_cal.xml
+C:\Users\dJwarrious\Desktop\design cal\design cal\obj\Debug\desgin_cal.pdb
